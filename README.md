@@ -7,6 +7,6 @@ I develop a lot of software that does various tasks. Many of my repositories con
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TrueWinter&theme=aura&count_private=true&disable_animations=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TrueWinter&show_icons=true&theme=aura&locale=en&layout=compact&langs_count=10&hide=typescript" />
 </a>
